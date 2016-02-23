@@ -1,2 +1,2 @@
 # Toy-Problems
-Practice Algorithms
+Practice Algorithm Solutions
